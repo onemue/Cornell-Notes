@@ -7,3 +7,7 @@
 默认文件保存在工作目录下的Notes，可能需要手动创建。
 
 [NW.js淘宝镜像地址](http://npm.taobao.org/mirrors/nwjs/)
+
+## 挖坑 
+
+> 康奈尔笔记本可能重做
