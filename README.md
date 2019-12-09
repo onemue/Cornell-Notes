@@ -8,6 +8,3 @@
 
 [NW.js淘宝镜像地址](http://npm.taobao.org/mirrors/nwjs/)
 
-## 挖坑 
-
-> 康奈尔笔记本可能重做
